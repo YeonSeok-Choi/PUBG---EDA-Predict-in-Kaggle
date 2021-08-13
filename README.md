@@ -5,7 +5,11 @@
 - "BATTLEGROUNDS" is Battle Royale-style games. 100 players are dropped onto an island empty-handed and must explore, scavenge, and eliminate other players until only one is left standing, all while the play zone continues to shrink.
 - DATA is about August 2018 Kaggle collected data made possible through the PUBG Developer API.
 
+### Python
+- Using EDA & Predict(Xgboost)
 
+### R
+- Using regression analysis
 
 
 
